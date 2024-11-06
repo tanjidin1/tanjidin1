@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanjidin1
+- 👋 Hi, I’m Dedi Aulia (@tanjidin1)
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, Python & Tableau
 
